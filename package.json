@@ -1,0 +1,33 @@
+{
+  "name": "sleman-halshoii",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.4.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "font-awesome": "^4.7.0",
+    "vue-cli-plugin-vuetify": "~2.4.5",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie <= 10"
+  ]
+}

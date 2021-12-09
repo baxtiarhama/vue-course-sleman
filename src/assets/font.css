@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rudaw';
+    src: url('Rudaw.woff2') format('woff2'),
+        url('Rudaw.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
